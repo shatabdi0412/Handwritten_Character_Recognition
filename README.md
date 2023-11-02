@@ -34,7 +34,7 @@ Dataset: IAM Dataset
 - We will  be  using the IAM  dataset  for  training  and  testing  your  model. We  will  use  the  words subset of the dataset, in  which each image contains a word. The dataset contains over 8000 images and their digital text.
 - This is a sample from a text file,
 a01-000u-01-03 ok 156 1400 937 294 59 NN Labour
-where, a01-000u-01-03: image location+ image id
+where,  a01-000u-01-03: image location + image id
 - Labour: actual word
 - The image file contains one word in each image
 ![image](https://github.com/shatabdi0412/Handwritten_Character_Recognition/assets/134500115/4038633c-aa5a-47fb-b91f-f8877be05bb4)
